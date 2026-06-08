@@ -91,3 +91,8 @@ Key Learnings:
 * Use UPPERCASE for constants
 * Use descriptive names for boolean values
 * Be consistent throughout the codebase
+
+
+#### Day 3
+* Lists
+* List methods
