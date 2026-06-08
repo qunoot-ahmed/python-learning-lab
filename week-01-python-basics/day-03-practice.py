@@ -37,3 +37,25 @@ values.sort()
 print(values)
 
 print(list (range(1,100)))
+
+# Dictionary - unordered
+dictionary = {
+    'a': [1,2,3],
+    'b': 'Hello',
+    'c': True
+}
+print(dictionary['a'])
+
+my_list = [
+{
+    'd': [1,2,3,4,5,6,7,8],
+    'e': 'whatever',
+    'f': False
+},
+{
+    'g': [5,4,3,2,1],
+    'h': 'hey hey',
+    'i': True
+}
+]
+print(my_list[1]['g'][2])

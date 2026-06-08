@@ -94,5 +94,68 @@ Key Learnings:
 
 
 #### Day 3
+
 * Lists
-* List methods
+* List Mutability
+* List Slicing
+* Copying Lists
+* Multi-dimensional Lists (Matrices)
+* List Methods
+* Dictionaries
+* Nested Data Structures
+
+List Operations Practiced:
+
+* List Creation
+* List Indexing
+* List Slicing
+* List Copying
+
+List Methods Practiced:
+
+* append()
+* insert()
+* pop()
+* remove()
+* sort()
+
+Functions Practiced:
+
+* list()
+* range()
+* print()
+
+Dictionary Concepts Practiced:
+
+* Key-Value Pairs
+* Accessing Dictionary Values
+* Nested Dictionaries
+* Lists of Dictionaries
+
+Examples Built:
+
+1. Amazon Shopping Cart
+
+   * Modified list elements
+   * Copied lists using slicing
+
+2. Basket Operations
+
+   * Added items
+   * Inserted values
+   * Removed items
+   * Sorted data
+
+3. Dictionary Practice
+
+   * Accessed values using keys
+   * Worked with nested data structures
+
+Key Learnings:
+
+* Lists are mutable and can be modified after creation.
+* Slicing can be used to create copies of lists.
+* List methods often modify the original list in place.
+* Dictionaries store data as key-value pairs.
+* Python supports complex nested structures such as lists of dictionaries and dictionaries containing lists.
+* Lists preserve order, while dictionaries provide fast access through keys.
