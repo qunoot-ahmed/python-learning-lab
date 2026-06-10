@@ -82,8 +82,7 @@ Key Learnings:
 * User input is received as a string and often requires type conversion
 * Built-in string methods return new strings rather than modifying the original string
 
-## Variable Naming Best Practices
-
+Variable Naming Best Practices:
 * Use snake_case
 * Start with lowercase letters
 * Use meaningful names
@@ -159,3 +158,66 @@ Key Learnings:
 * Dictionaries store data as key-value pairs.
 * Python supports complex nested structures such as lists of dictionaries and dictionaries containing lists.
 * Lists preserve order, while dictionaries provide fast access through keys.
+
+#### Day 4
+
+Topics Covered:
+
+* Dictionary Methods
+* Tuples
+* Tuple Unpacking
+* Sets
+* Unique Values
+
+Methods Practiced:
+
+* update()
+* keys()
+* values()
+* items()
+* count()
+* index()
+
+Key Learnings:
+
+* Dictionaries can be updated dynamically.
+* Tuples are immutable.
+* Tuple unpacking simplifies variable assignment.
+* Sets automatically remove duplicate values.
+* Sets store unique objects only.
+
+#### Day 5
+
+Topics Covered:
+
+* Set Operations
+* Conditional Logic
+* Logical Operators
+* Equality vs Identity
+* Loops
+* Nested Loops
+* Iterating Dictionaries
+
+Methods Practiced:
+
+* intersection()
+* union()
+* isdisjoint()
+* issubset()
+* issuperset()
+
+Exercises Completed:
+
+1. Set Comparison
+2. Magician Conditional Exercise
+3. Nested Loop Practice
+4. Dictionary Iteration
+5. Counter Exercise
+
+Key Learnings:
+
+* Sets support mathematical operations.
+* if / elif / else control program flow.
+* == compares values, while is compares memory references.
+* Loops automate repetitive tasks.
+* Dictionaries can be iterated using items().
