@@ -221,3 +221,45 @@ Key Learnings:
 * == compares values, while is compares memory references.
 * Loops automate repetitive tasks.
 * Dictionaries can be iterated using items().
+
+#### Day 6
+
+Topics Covered:
+
+* range()
+* enumerate()
+* Nested Loops
+* Functions
+* *args and **kwargs
+* Return Statements
+* Basic Problem Solving
+
+Functions Practiced:
+
+* range()
+* enumerate()
+* count()
+* append()
+* sort()
+* sum()
+* max()
+
+Exercises Completed:
+
+1. Number Iteration with range()
+2. Finding Index with enumerate()
+3. Picture Pattern Generator
+4. Duplicate Detection in Lists
+5. Even/Odd Checker Function
+6. *args and **kwargs Practice
+7. Highest Even Number Exercise
+
+Key Learnings:
+
+* range() generates sequences for iteration.
+* enumerate() provides both index and value while looping.
+* Functions improve code reusability.
+* *args accepts multiple positional arguments.
+* **kwargs accepts keyword arguments as a dictionary.
+* return sends a value back from a function.
+* Nested loops can be used to generate patterns.
